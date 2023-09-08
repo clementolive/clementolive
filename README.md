@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 ### <div align="center">I'm a Fullstack developer, living in south France 👨‍💻 </div>  
 
 - 🔭 I’m currently working on a Reddit-like to improve my skills  
