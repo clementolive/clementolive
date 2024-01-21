@@ -1,9 +1,9 @@
 
 ### <div align="center">I'm a Fullstack developer, living in south France 👨‍💻 </div>  
 
-- 🔭 I’m currently working on a Reddit-like to improve my skills  
+- 🔭 I’m currently working on a Reddit clone to improve my skills  
 
-- 🌱 I’m currently learning .NET and C#  
+- 🌱 I like to learn different technologies
   
 - ⚡ I'm looking for collaborations on any Angular professional app  
   
