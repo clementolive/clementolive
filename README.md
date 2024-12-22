@@ -1,5 +1,5 @@
 
-### <div align="center">I'm a Fullstack developer, living in south France 👨‍💻 </div>  
+### I'm a Fullstack developer, living in France 👨‍💻  
 
 - 🔭 I like to make clone of known apps (Reddit, Amazon) to improve my skills
 
