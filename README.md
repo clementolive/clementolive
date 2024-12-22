@@ -1,5 +1,5 @@
 
-### I'm a Fullstack developer, living in France 👨‍💻  
+## I'm a Fullstack developer, living in France 👨‍💻  
 
 - 🔭 I like to make clone of known apps (Reddit, Amazon) to improve my skills
 
