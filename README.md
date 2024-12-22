@@ -3,7 +3,7 @@
 
 - 🔭 I like to make clone of known apps (Reddit, Amazon) to improve my skills
 
-- 🌱 I like to learn different technologies 
+- 🌱 I like to learn different technologies (React, Tailwind at the moment)
   
 - ⚡ I'm looking for work, I'd like to collaborate with artists to create games. 
 
