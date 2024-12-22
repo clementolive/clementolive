@@ -8,8 +8,8 @@
 - ⚡ I'm looking for work, I'd like to collaborate with artists to create games. 
 
  ## Examples of my work :  (I don't keep a real domain name for theses small projects)
-<a href="https://redditlike-3da45.web.app/"></a>
-<a href="https://portfolio-973cd.web.app/"></a>
+<a href="https://redditlike-3da45.web.app/">Reddit clone</a>
+<a href="https://portfolio-973cd.web.app/">Portfolio</a>
 
 <br/>  
 
