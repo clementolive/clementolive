@@ -3,7 +3,7 @@
 
 - 🔭 I like to make clone of known apps (Reddit, Amazon) to improve my skills
 
-- 🌱 I like to learn different technologies (React, Tailwind at the moment)
+- 🌱 I like to learn different technologies (Tailwind at the moment)
   
 - ⚡ I'm looking for work, I'd like to collaborate with artists to create games. 
 
@@ -11,6 +11,8 @@
  <a href="https://portfolio-973cd.web.app/">Portfolio</a><br/>  
  <a href="https://redditlike-3da45.web.app/">Reddit clone</a><br/>  
  <a href="https://denginefromcanvas.web.app/">3D engine from scratch (HTML canvas)</a><br/>  
+ <a href=" https://lootfilterpoe2.web.app/">Loot filter maker for Path of Exile 2</a><br/>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
