@@ -11,7 +11,7 @@
  <a href="https://portfolio-973cd.web.app/">Portfolio</a><br/>  
  <a href="https://redditlike-3da45.web.app/">Reddit clone</a><br/>  
  <a href="https://denginefromcanvas.web.app/">3D engine from scratch (HTML canvas)</a><br/>  
- <a href=" https://lootfilterpoe2.web.app/">Loot filter maker for Path of Exile 2</a><br/>  
+ <a href="https://lootfilterpoe2.web.app/">Loot filter maker for Path of Exile 2</a><br/>  
 
 
 ## My Skill Set  
