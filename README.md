@@ -1,7 +1,7 @@
 
 ## I'm a Fullstack developer, living in France 👨‍💻  
 
-- I'm currenctly applying for OEIS (18/06/2025)
+- I'm currently applying for OEIS (18/06/2025)
 
 - 🔭 I like to make clone of known apps (Reddit, Amazon) to improve my skills
 
