@@ -1,8 +1,6 @@
 
 ## I'm a Fullstack developer, living in France 👨‍💻  
 
-- I'm currently applying for OEIS (18/06/2025)
-
 - 🔭 I like to make clone of known apps (Reddit, Amazon) to improve my skills
 
 - 🌱 I like to learn different technologies (Tailwind at the moment)
